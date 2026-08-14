@@ -20,11 +20,3 @@ elif operation == "/":
 
 else:
     print("Invalid operation")
-# Enter first number: 20
-# Enter second number: 5
-# Choose (+, -, *, /): /
-# Answer: 4.0
-# Enter first number: 20
-# Enter second number: 0
-# Choose (+, -, *, /): /
-# Cannot divide by zero
